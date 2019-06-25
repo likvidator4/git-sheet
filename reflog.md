@@ -1,2 +1,6 @@
 ## A4. Hide The Garbage
-### Lorem ipsum dolor sit amet, consectetur adipiscing elit
+### ����� ������ ��, �� ��� ���� ������
+- `git gc` � ������� �������� ����� � �������������� ��������� �����������
+- `git clean` � ������� ��������������� ����� �� ����������
+- `git reflog show <ref>` � �������� ��� �������� �� �������
+- `git reflog` = `git reflog show HEAD` � �������� ��� �������� � HEAD
